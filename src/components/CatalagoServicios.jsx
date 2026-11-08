@@ -6,7 +6,7 @@ export const CatalagoServicios = () => {
   const { agregarServicio } = useSalon(); // 
 
   const serviciosDisponibles = [
-    { id: 1, nombre: "Limpieza Facail", precio: 35.00 }, 
+    { id: 1, nombre: "Limpieza Facial", precio: 35.00 }, 
     { id: 2, nombre: "Masaje Corporal", precio: 50.00 },
     { id: 3, nombre: "Manicure Spa", precio: 25.00 }
   ];
